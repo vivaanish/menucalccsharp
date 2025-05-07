@@ -1,0 +1,14 @@
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.deps.json
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.runtimeconfig.json
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.dll
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/bin/Debug/net10.0/ConsoleApp2.pdb
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.AssemblyInfo.cs
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.dll
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/refint/ConsoleApp2.dll
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.pdb
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ConsoleApp2.genruntimeconfig.cache
+/Users/anishisgreat/ConsoleApp2/ConsoleApp2/obj/Debug/net10.0/ref/ConsoleApp2.dll
