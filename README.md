@@ -1,1 +1,1 @@
-# ConsoleApp2
+This is a simple menu-based calculator I built using C#. The program runs in the console and lets the user choose between basic operations like Sum, Multiply, and Subtract. For the sum operation, the user can optionally enter a third number. The calculator keeps running until the user selects the exit option.   
